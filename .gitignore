@@ -1,0 +1,7 @@
+@"
+data/
+*.pt
+*.safetensors
+*.zip
+**/study_tip_gpt2/
+"@ | Set-Content .gitignore
